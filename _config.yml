@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Michael Jordan 23"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo1.jpg"
   bio    : "Basketball but drunker and louder."
   links:
     - label: "Website"
